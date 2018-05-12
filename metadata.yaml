@@ -73,6 +73,8 @@ creator:
     gutenberg_agent_id: '39770'
     url: http://www.gutenberg.org/2009/agents/39770
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38996#Dix-contes-modernes-des-meilleurs-auteurs-du-jour
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2012-02-27'
 gutenberg_type: Text
