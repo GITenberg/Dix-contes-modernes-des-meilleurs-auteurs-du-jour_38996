@@ -1,0 +1,96 @@
+_repo: Dix-contes-modernes-des-meilleurs-auteurs-du-jour_38996
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38996-h/images/cover_lg.jpg
+creator:
+  authors:
+  - agent_name: Daudet, Alphonse
+    alias: Daudet, Louis Marie Alphonse
+    birthdate: 1840
+    deathdate: 1897
+    gutenberg_agent_id: '727'
+    url: http://www.gutenberg.org/2009/agents/727
+    wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
+  - agent_name: Laut, Ernest
+    gutenberg_agent_id: '39767'
+    url: http://www.gutenberg.org/2009/agents/39767
+  - agent_name: Daudet, Ernest
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '24919'
+    url: http://www.gutenberg.org/2009/agents/24919
+  - agent_name: Montjoyeux
+    alias: Poignand, Jules
+    birthdate: 1851
+    gutenberg_agent_id: '39768'
+    url: http://www.gutenberg.org/2009/agents/39768
+  - agent_name: Forge, Henry de
+    gutenberg_agent_id: '39765'
+    url: http://www.gutenberg.org/2009/agents/39765
+  - agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+  - agent_name: Normand, Jacques
+    alias: Normand, Jacques Clary Jean
+    birthdate: 1848
+    deathdate: 1931
+    gutenberg_agent_id: '39764'
+    url: http://www.gutenberg.org/2009/agents/39764
+  - agent_name: Rébrac, Jean du
+    aliases:
+    - Du Rébrac, Jean
+    - Rebrac, Jean du
+    gutenberg_agent_id: '39769'
+    url: http://www.gutenberg.org/2009/agents/39769
+  - agent_name: Arène, Paul
+    aliases:
+    - Arene, Paul Auguste
+    - Arène, Paul Auguste
+    birthdate: 1843
+    deathdate: 1896
+    gutenberg_agent_id: '39763'
+    url: http://www.gutenberg.org/2009/agents/39763
+  - agent_name: Nion, François de
+    aliases:
+    - Nion, Francois de
+    - Nion, François, comte de
+    - De Nion, François
+    birthdate: 1854
+    deathdate: 1923
+    gutenberg_agent_id: '39766'
+    url: http://www.gutenberg.org/2009/agents/39766
+  editor:
+    agent_name: Potter, Henry Austin
+    alias: Potter, H. A.
+    birthdate: 1869
+    gutenberg_agent_id: '39770'
+    url: http://www.gutenberg.org/2009/agents/39770
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2012-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38996'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Readers'
+- !lcsh 'French fiction'
+- !lcc 'PQ'
+- !lcsh 'Short stories, French'
+tableOfContents: L'aventure de Walter Schnaffs / Guy de Maupassant -- L'oncle Sambuq
+  / Paul Arène -- L'histoire la plus drôle / Jacques Normand -- La charge des morts
+  / Henry de Forge -- Le petit homme rouge / François de Nion -- La bataille de Froeschwiller
+  / Ernest Daudet -- Le mauvais Zouave / Alphonse Daudet -- Un mariage / Ernest Laut
+  -- Pour le ruban / Montjoyeux -- Parole d'honneur / Jean du Rébrac.
+title: Dix contes modernes des meilleurs auteurs du jour
+url: http://www.gutenberg.org/ebooks/38996
